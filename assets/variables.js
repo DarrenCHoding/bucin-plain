@@ -10,7 +10,7 @@ const variables = {
     { quote: "I'm sorry for loving you.", author: "Darren" },
     { quote: "I love you.", author: "Derr" },
     { quote: "Aku sayang kamu!", author: "Abang" },
-    { quote: "Ian sayang Ava ♥", author: "Sayangnya kamu" },
+    { quote: "Derr always love you", author: "Sayangnya kamu" },
     { quote: "Love chuuu", author: "Cinta" },
   ],
   nicknames: ["Nina", "Nina Cantik", "Nina Sayang", "Dudud", "Nitnut", "Cintaku Sayangku Cantikku NAF"],
